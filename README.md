@@ -4,7 +4,7 @@ Well, Hello World!
 ## Our table
 | Name  | County   |Gender   |
 |---|---|---|
-|James   |   Nairobi|   Male|
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|James   |  Nairobi| M|
+|Jane   |nakuru   |F  |
+| Karrie  |Meru   |F   |
+|  Peter | Narok  |   M|
