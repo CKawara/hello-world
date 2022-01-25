@@ -2,8 +2,9 @@
 Well, Hello World!
 
 ## Our table
-| name  |county   | gender  |   |   |
+| name  |county   | gender  |
 |---|---|---|---|---|
-|  john |nairobi   | male  |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|  john |nairobi   | male    |
+|  mary |nakuru   |female  |
+|  janice |meru   |female  |
+|sam|nairobi|female|
